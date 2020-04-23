@@ -1,0 +1,5 @@
+a_b = int(input("Enter base of triangle : "))
+c_d = int(input("Enter height of triangle : "))
+e_f = a_b*c_d
+#m = e_f/2
+m = (e_f / 2)
