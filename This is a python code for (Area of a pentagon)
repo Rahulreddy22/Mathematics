@@ -1,0 +1,5 @@
+a_b = 5/2
+c_d = int(input("Enter side of a regular pentagon : "))
+e_f = int(input("Enter apothem of a regular pentagon : "))
+#Area = a_b * c_d * e_f
+Area = (a_b*c_d*e_f)
